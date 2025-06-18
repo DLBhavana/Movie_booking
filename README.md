@@ -2,6 +2,7 @@
 A simple command-line based movie ticket booking system written in Python. It allows users to view movies, check seat availability, book tickets, view past bookings, and cancel bookings — all with persistent storage using JSON files.
 
 **Features**
+
 View available movies and showtimes
 
 Book tickets for a specific movie, date, and time
@@ -17,6 +18,8 @@ Cancel bookings
 Persistent data storage via JSON files (bookings.json and seats.json)
 
 **Requirements**
+
 Python 3.x
+
 No external libraries required
 
