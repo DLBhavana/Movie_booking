@@ -1,0 +1,242 @@
+{
+    "RRR": {
+        "2025-06-15": {
+            "6:00 PM": {
+                "A1": false,
+                "A2": false,
+                "A3": false,
+                "A4": false,
+                "A5": false,
+                "A6": false,
+                "A7": false,
+                "A8": false,
+                "A9": false,
+                "A10": false
+            },
+            "9:00 PM": {
+                "A1": false,
+                "A2": false,
+                "A3": false,
+                "A4": false,
+                "A5": false,
+                "A6": false,
+                "A7": false,
+                "A8": false,
+                "A9": false,
+                "A10": false
+            }
+        },
+        "2025-06-16": {
+            "6:00 PM": {
+                "A1": false,
+                "A2": false,
+                "A3": false,
+                "A4": false,
+                "A5": false,
+                "A6": false,
+                "A7": false,
+                "A8": false,
+                "A9": false,
+                "A10": false
+            },
+            "9:00 PM": {
+                "A1": false,
+                "A2": false,
+                "A3": false,
+                "A4": false,
+                "A5": false,
+                "A6": false,
+                "A7": false,
+                "A8": false,
+                "A9": false,
+                "A10": false
+            }
+        },
+        "2025-06-17": {
+            "6:00 PM": {
+                "A1": false,
+                "A2": false,
+                "A3": false,
+                "A4": false,
+                "A5": false,
+                "A6": false,
+                "A7": false,
+                "A8": false,
+                "A9": false,
+                "A10": false
+            },
+            "9:00 PM": {
+                "A1": false,
+                "A2": false,
+                "A3": false,
+                "A4": false,
+                "A5": false,
+                "A6": false,
+                "A7": false,
+                "A8": false,
+                "A9": false,
+                "A10": false
+            }
+        }
+    },
+    "Pushpa": {
+        "2025-06-15": {
+            "5:00 PM": {
+                "A1": false,
+                "A2": false,
+                "A3": false,
+                "A4": false,
+                "A5": false,
+                "A6": false,
+                "A7": false,
+                "A8": false,
+                "A9": false,
+                "A10": false
+            },
+            "8:00 PM": {
+                "A1": false,
+                "A2": false,
+                "A3": false,
+                "A4": false,
+                "A5": false,
+                "A6": false,
+                "A7": false,
+                "A8": false,
+                "A9": false,
+                "A10": false
+            }
+        },
+        "2025-06-16": {
+            "5:00 PM": {
+                "A1": false,
+                "A2": false,
+                "A3": false,
+                "A4": false,
+                "A5": false,
+                "A6": false,
+                "A7": false,
+                "A8": false,
+                "A9": false,
+                "A10": false
+            },
+            "8:00 PM": {
+                "A1": false,
+                "A2": false,
+                "A3": false,
+                "A4": false,
+                "A5": false,
+                "A6": false,
+                "A7": false,
+                "A8": false,
+                "A9": false,
+                "A10": false
+            }
+        },
+        "2025-06-17": {
+            "5:00 PM": {
+                "A1": false,
+                "A2": false,
+                "A3": false,
+                "A4": false,
+                "A5": false,
+                "A6": false,
+                "A7": false,
+                "A8": false,
+                "A9": false,
+                "A10": false
+            },
+            "8:00 PM": {
+                "A1": false,
+                "A2": false,
+                "A3": false,
+                "A4": false,
+                "A5": false,
+                "A6": false,
+                "A7": false,
+                "A8": false,
+                "A9": false,
+                "A10": false
+            }
+        }
+    },
+    "Bahubali": {
+        "2025-06-15": {
+            "2:00 PM": {
+                "A1": false,
+                "A2": false,
+                "A3": false,
+                "A4": false,
+                "A5": false,
+                "A6": false,
+                "A7": false,
+                "A8": false,
+                "A9": false,
+                "A10": false
+            },
+            "5:00 PM": {
+                "A1": false,
+                "A2": false,
+                "A3": false,
+                "A4": false,
+                "A5": false,
+                "A6": false,
+                "A7": false,
+                "A8": false,
+                "A9": false,
+                "A10": false
+            }
+        },
+        "2025-06-16": {
+            "2:00 PM": {
+                "A1": false,
+                "A2": false,
+                "A3": false,
+                "A4": false,
+                "A5": false,
+                "A6": false,
+                "A7": false,
+                "A8": false,
+                "A9": false,
+                "A10": false
+            },
+            "5:00 PM": {
+                "A1": false,
+                "A2": false,
+                "A3": false,
+                "A4": false,
+                "A5": false,
+                "A6": false,
+                "A7": false,
+                "A8": false,
+                "A9": false,
+                "A10": false
+            }
+        },
+        "2025-06-17": {
+            "2:00 PM": {
+                "A1": false,
+                "A2": false,
+                "A3": false,
+                "A4": false,
+                "A5": false,
+                "A6": false,
+                "A7": false,
+                "A8": false,
+                "A9": false,
+                "A10": false
+            },
+            "5:00 PM": {
+                "A1": false,
+                "A2": false,
+                "A3": false,
+                "A4": false,
+                "A5": false,
+                "A6": false,
+                "A7": false,
+                "A8": false,
+                "A9": false,
+                "A10": false
+            }
+        }
+    }
+}
